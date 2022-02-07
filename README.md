@@ -2,6 +2,7 @@
 - 👀 I’m interested in Robotics and Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
+- Student at Bilkent University
 - 📫 How to reach me: www.instagram.com/isa_akhan/
                       khanisa1123@gmail.com
 
