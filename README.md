@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
 - Student at Bilkent University
-- 📫 How to reach me: www.instagram.com/isa_akhan/
+- 📫 How to reach me: www.instagram.com/isaapatisa/
                       khanisa1123@gmail.com
 
 <!---
